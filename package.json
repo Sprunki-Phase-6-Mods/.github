@@ -1,7 +1,7 @@
 {
-  "name": "Nintendo-Music",
+  "name": "Sprunki-Phase",
   "version": "1.0.0",
-  "description": "Nintendo Music APK For Android Download.",
+  "description": "Sprunki Phase 6 Mod APK Play Online on Android Game.",
   "main": "index.js",
   "scripts": {
     "start": "open index.html"
